@@ -1,6 +1,7 @@
 # quizapp
 
-A new Flutter project.
+A new Flutter project for the subject DATAWAREHOUSE and MINING for SEM 5 Computer Engineering Department 
+Minor Prjoect
 
 ## Getting Started
 
